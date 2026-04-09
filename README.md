@@ -18,4 +18,3 @@ This project is a comprehensive data management and visualization system for the
 1. **Database:** Import the `.sql` file into MySQL Workbench.
 2. **Analysis:** Open the `.pbix` file to view the 2026 grid distribution.
 3. **Search:** Run `python "wec thing.py"` to search for specific drivers like Rossi or Gunn.
-4.
